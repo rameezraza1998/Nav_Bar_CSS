@@ -13,6 +13,9 @@
     /* align-items: center; */
     
 }
+.border{
+    border: 2px solid black;
+}
 .logo{
     background-color: #1877F2;
     /* border: 2px solid black; */
@@ -21,6 +24,8 @@
    
     font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
+    font-weight: bold;
+    
 }
 .nav_bar{
     background-color: #1877F2;
@@ -31,6 +36,7 @@
     padding-right: 100px;
     padding-top: 17px;   
     font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 30px;   /* mpve little bit down */
 }
 a{
     text-decoration: none;
